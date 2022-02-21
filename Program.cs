@@ -147,17 +147,6 @@
             return System.IO.File.ReadAllLines("words.txt");
         }
 
-
-
-
-        //static void writeWords(string[] words)
-        //{
-        //   foreach (string word in words)
-        //   {
-        //       Console.WriteLine(word);
-        //   }
-
-        //}
         void PlayRound()
         {
             int x1 = -1, y1 = -1, x2 = -1, y2 = -1;
