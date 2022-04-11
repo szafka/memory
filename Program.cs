@@ -1,5 +1,6 @@
 ﻿namespace bell
 {
+    //komentarz tymczasowy
     class Memory
     {
         String[][] matrix = null;
